@@ -39,6 +39,15 @@
 4. Отфильтруйте найденные каналы и группы.
 5. Передайте лучшие результаты в модули сбора аудитории или анализа.
 
+## Куда вести результаты дальше
+
+- [Поиск похожих каналов](https://github.com/Deskgram-2/telegram-similar-channels-deskgram), если хотите расширить карту ниши от первых сильных площадок;
+- [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram), если дальше нужен парсинг подписчиков или участников;
+- [Сбор из комментариев](https://github.com/Deskgram-2/telegram-comment-audience-parser-deskgram), если нужна более живая база по активности под постами;
+- [Сбор писавших в чатах](https://github.com/Deskgram-2/telegram-active-chat-users-parser-deskgram), если фокус на обсуждениях и живых сообществах;
+- [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram), если после discovery вы строите рост групп и каналов;
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram), если хотите контролировать поисковые и парсинговые сценарии из одной операционной точки.
+
 ## Как устроен сценарий
 
 ### Ключевые слова
@@ -75,6 +84,9 @@
 - [Сбор аудитории](https://github.com/Deskgram-2/telegram-audience-parser-deskgram)
 - [Поиск похожих каналов](https://github.com/Deskgram-2/telegram-similar-channels-deskgram)
 - [Сбор из комментариев](https://github.com/Deskgram-2/telegram-comment-audience-parser-deskgram)
+- [Сбор писавших в чатах](https://github.com/Deskgram-2/telegram-active-chat-users-parser-deskgram)
+- [Инвайт](https://github.com/Deskgram-2/telegram-invite-tool-deskgram)
+- [Диспетчер задач](https://github.com/Deskgram-2/telegram-task-manager-deskgram)
 
 ## FAQ
 
