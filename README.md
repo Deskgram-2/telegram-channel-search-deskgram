@@ -2,7 +2,14 @@
 
 Поиск каналов и групп в Deskgram 2 помогает быстро собрать базу Telegram-площадок по ключевым словам и подготовить ее для дальнейшего парсинга, анализа, рекламы или ручной проверки. Модуль полезен, когда нужно не просто найти несколько каналов вручную, а системно расширять карту нишевых площадок.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+## Интерактивный Web Preview
+
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_channels_groups)
+
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsearch_channels_groups)
+
+
 
 ## Скриншоты
 
